@@ -1,0 +1,20 @@
+
+.pelicula_card_overview{
+    height: 100px;
+    overflow: hidden;
+
+}
+
+
+
+.card img{
+    height: 300px;
+    background-size: cover;
+    filter: sepia(300%);
+    opacity: 200%;
+      }
+
+.fondo{
+  background-color: lightblue;
+word-break: break-all;
+}
